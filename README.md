@@ -54,10 +54,12 @@ En JSON-fil med sammanfattande statistik skapas i samma mapp, där du kan se mod
     Python 3.8+:	 Alternativ lokal körning
     PowerBI Desktop: Dashboard-visualisering (valfritt)
     
-Dataset-krav
-Format	Beskrivning
-.mbox	Gmail/Outlook e-postexport
-.zip	Komprimerad fil med .mbox-filer
+***Dataset-krav***
+
+    Format	Beskrivning
+    .mbox	Gmail/Outlook e-postexport
+    .zip	Komprimerad fil med .mbox-filer
+
 Filnamnskonvention:
 
 *socialt*.mbox → Sociala mail
