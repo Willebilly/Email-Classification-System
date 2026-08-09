@@ -193,14 +193,4 @@ Innan du använder applikationen, kontrollera:
 
 □ Exporter genererade för PowerBI
 
-
-## Lycka till!
-Du har nu ett fullt fungerande e-postklassificeringssystem!
-
-- Accuracy: Upp till 98%
-
-- Modeller: Random Forest och XGBoost
-
-- Visualisering: PowerBI Dashboard
-
-- Användargränssnitt: Interaktiva förutsägelser
+Lycka till med körningen :D 
