@@ -68,4 +68,24 @@ Filnamnskonvention:
 
 *kampanjer*.mbox → Kampanjmail
 
+---
 
+## **Instruktioner för körning**
+
+1. Ladda ner filerna från detta repository
+2. Öppna Google Colab
+3. Skapa en mapp där applikation och extra filler läggs
+4. Klicka "File" --> "Upload notebook". [ Välj *SocialOrPromotion_AI_project-WillJohnFri.ipynb* ]
+5. Ladda upp ***requirements.txt***
+6. Ladda ner eget dataset: Gå till *google takeout*. Av markera allt förutom gmail. Välj två flikarna för socialt och kampanj. Ladda ner dessa som `.mbox` filer.
+7. Kör Cell 1 - 3. Dessa sätter upp miljön för att följande celler ska fungera.
+
+> OBS: För att detta ska fungera måste du acceptera att filen får åtkomst till din google drive och att den tillåts göra ändringar i den. Exempelvis: skapa mappar, filer, redigera filer. 
+
+9. Kör Cell 4, här laddar du upp ditt dataset, `ZIP` fil med `.mbox` filer. (Kan ta lång tid beroende på datasetets storlek).
+10. Kör Cell 5, den rensar HTML, tar bort misstänkta ord, tokeniserar och lemmatiserar. (Kan ta lång tid beroende på datasetets storlek).
+11. Kör Cell 6, den extraherar features och skapar numeriska egenskaper från text.
+12. Kör Cell 7 - 10, dessa tränar ML modellerna: Random Forest & XGBoost.
+13. Kör Cell 11 - 11.5 jämför modellerna och optimizerar XGBoost.
+14. Kör Cell 12, nu kan du testa med dina egna mail och få en klassificering.
+15. Kör Cell 13 för att exportera resultatet av applikationens körning. Detta kan sedan användas i Power BI, (filer sparas i `exports/` mappen).
