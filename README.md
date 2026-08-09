@@ -153,15 +153,13 @@ Praktisk nytta:
 
 ### *Det verkliga värdet!*
 
-✅ Spara tid - Sorterar automatiskt
+A. Spara tid --> Sorterar automatiskt
 
-✅ Öka produktivitet - Fokus på rätt saker
+B. Öka produktivitet --> Fokus på rätt saker
 
-✅ Minska stress - Ingen gissning kring mail
+C. Minska stress --> Ingen gissning kring mail
 
-✅ Fatta bättre beslut - Insikter från data
-
-✅ Skapa nya produkter - Grund för e-postappar
+D. Fatta bättre beslut --> Insikter från data
 
 ---
 
