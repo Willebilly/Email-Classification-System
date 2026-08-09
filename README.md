@@ -1,7 +1,9 @@
 # Email-Classification-System
 
-AI-Powered Social vs Promotion Email Classifier
+## **AI-Powered Social vs Promotion Email Classifier**
+
 Syfte/Mål
+
 Detta projekt syftar till att skapa ett AI-system som automatiskt klassificerar e-postmeddelanden som antingen sociala (personliga meddelanden, inbjudningar) eller kampanjer (reklam, nyhetsbrev, erbjudanden). Systemet är byggt för användare som är osäkra på om ett mail är socialt eller en kampanj, och vill ha ett snabbt och pålitligt svar utan att behöva gissa.
 
 Målet är att användaren ska behöva göra så lite som möjligt - bara mata in ett mail och få en omedelbar klassificering med hög tillförlitlighet.
