@@ -42,7 +42,6 @@ En JSON-fil med sammanfattande statistik skapas i samma mapp, där du kan se mod
 ## Systemkrav
 ***Minimala krav***
     
-    Komponent:       Krav
     Operativsystem:  Windows 10, macOS 10.15+, eller Linux (Ubuntu 20.04+)
     Python:	         3.8 eller högre
     RAM:	         8 GB minimum (16 GB rekommenderas)
@@ -51,14 +50,12 @@ En JSON-fil med sammanfattande statistik skapas i samma mapp, där du kan se mod
 
 ***Programvara***
 
-    Programvara:	 Syfte
     Google Colab:	 Primär miljö 
     Python 3.8+:	 Alternativ lokal körning
     PowerBI Desktop: Dashboard-visualisering (valfritt)
     
 ***Dataset-krav***
 
-    Format	Beskrivning
     .mbox	Gmail/Outlook e-postexport
     .zip	Komprimerad fil med .mbox-filer
 
