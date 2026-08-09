@@ -32,11 +32,14 @@ Systemet erbjuder följande funktioner:
 <img width="610" height="286" alt="image" src="https://github.com/user-attachments/assets/b85bb0d0-0b7f-4e28-82e6-b536b88bf5fa" />
 
 
-**INFO:** För extra hjälp, se README-filen eller kör notebooken cell för cell för att förstå processen.
+#### **INFO:** 
+För extra hjälp, se README-filen eller kör notebooken cell för cell för att förstå processen.
 
 En CSV-fil med förutsägelsehistorik skapas i mappen exports/ som kan användas för vidare analys.
 
 En JSON-fil med sammanfattande statistik skapas i samma mapp, där du kan se modellprestanda och nyckeltal.
+
+Ett exempel dataset med 100 kampanj mail & 100 social mail medföljer om du endast vill testa applikationen.
 
 ---
 ## Systemkrav
