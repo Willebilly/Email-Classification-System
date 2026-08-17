@@ -176,6 +176,13 @@ D. Fatta bättre beslut --> Insikter från data
 
 --- 
 
+## Slutsats:
+Många människor lägger onödig tid på att manuellt försöka avgöra om ett mejl är en social notifikation eller en reklamutskick. Det här projektet löser det problemet genom att använda maskininlärning för att automatiskt klassificera mejl – så att användaren slipper gissa. Du matar helt enkelt in ett mejl och får ett omedelbart, tillförlitligt svar.
+
+Genom att kombinera datahantering, feature engineering, modelljämförelse (Random Forest vs XGBoost) och en tydlig Power BI-visualisering visar projektet på en komplett lösning – från rådata till insikter. Resultatet är ett praktiskt verktyg som inte bara sparar tid, utan också ger användaren bättre kontroll över sin inkorg och därmed en mer organiserad digital vardag.
+
+---
+
 ## Checklista
 Innan du använder applikationen, kontrollera:
 
@@ -190,5 +197,6 @@ Innan du använder applikationen, kontrollera:
 □ Modeller tränade framgångsrikt
 
 □ Exporter genererade för PowerBI
+
 
 Lycka till med körningen :D 
